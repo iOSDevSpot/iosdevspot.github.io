@@ -5,10 +5,10 @@ url: "http://iosdevspot.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
+  title: iOSDevSpot
   avatar: avatar.png
-  gravatar: # email md5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  gravatar: 92d407160aaa83cafc956e8daa529f92
+  description: "A idéia de criar um site de screencasts para iOS não é nova para mim, mas sim uma idéia que foi amadurecendo com o tempo e experiência de mercado. Existem muitos modelos de sites de screencasts conhecidos não apenas de iOS mas de Rails, Vim e muitos outros assuntos. A questão para eu ter dado inicio a mais um site de screencast é que por mais que existam varias opções não existe muitas opções em português, mas de maneira pratica e descontraída pretendo levar esse projeto a frente não apenas para iOS mas também outras plataformas Pretendo convidar algumas pessoas para participarem de alguns casts especiais para galera, mostrando que tem muita galera que manja muito por esse Brasil a fora." # used by search engines
   
   # Header and footer text
   header_text: >
@@ -23,7 +23,7 @@ theme:
   behance:
   bitbucket: 
   dribbble: 
-  facebook: 
+  facebook: "iosdevspot"
   flickr: 
   github: "iOSDevSpot/"
   google_plus: 
@@ -35,7 +35,7 @@ theme:
   stack_exchange:  # full URL
   steam: 
   tumblr: 
-  twitter: "twitter"
+  twitter: "iosdevspot"
   wordpress: 
   youtube: 
   
@@ -47,9 +47,9 @@ theme:
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
   str_email: "Email"
-  str_next: "Next"
-  str_prev: "Prev"
-  str_continue_reading: "Continue reading"
+  str_next: "Próximo"
+  str_prev: "Anterior"
+  str_continue_reading: "Continuar lendo"
   
   # Colors, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
