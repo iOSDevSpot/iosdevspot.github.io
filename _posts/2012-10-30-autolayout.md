@@ -9,12 +9,15 @@ Nesse primeiro cast vamos conhecer uma tecnologia nova que foi introduzida no iO
  <iframe src="http://player.vimeo.com/video/52570404" width="560" height="349" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
+---
 
-### Código fonte
+#### Código fonte
 
-> https://github.com/iOSDevSpot/iosdevspot/tree/master/autolayouts
+> [https://github.com/iOSDevSpot/iosdevspot/tree/master/autolayouts](https://github.com/iOSDevSpot/iosdevspot/tree/master/autolayouts)
 
-### Referências
+---
+
+#### Referências
 
 > [Beginning Auto Layout in iOS 6](http://raywenderlich.com/20881/beginning-auto-layout-part-1-of-2)
 
