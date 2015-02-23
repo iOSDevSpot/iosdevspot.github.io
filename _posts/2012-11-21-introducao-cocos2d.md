@@ -13,7 +13,7 @@ O cocos2d é um engine gráfico que nos permite desenhar sprites na tela de form
 
 #### Código Fonte
 
-> [https://github.com/iOSDevSpot/iosdevspot/tree/master/HelloCocos2D](https://github.com/iOSDevSpot/iosdevspot/tree/master/HelloCocos2D)
+> [https://github.com/iOSDevSpot/iosdevspot-samples/tree/master/HelloCocos2D](https://github.com/iOSDevSpot/iosdevspot-samples/tree/master/HelloCocos2D)
 
 ---
 

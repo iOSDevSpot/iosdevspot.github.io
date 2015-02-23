@@ -13,7 +13,7 @@ Nesse primeiro cast vamos conhecer uma tecnologia nova que foi introduzida no iO
 
 #### Código fonte
 
-> [https://github.com/iOSDevSpot/iosdevspot/tree/master/autolayouts](https://github.com/iOSDevSpot/iosdevspot/tree/master/autolayouts)
+> [https://github.com/iOSDevSpot/iosdevspot-samples/tree/master/autolayouts](https://github.com/iOSDevSpot/iosdevspot-samples/tree/master/autolayouts)
 
 ---
 

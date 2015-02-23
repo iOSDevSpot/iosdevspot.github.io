@@ -13,12 +13,11 @@ O UITableView é um componente dentro do framework do UIKit que ajuda a trabalha
 
 #### Código Fonte
 
-> [https://github.com/iOSDevSpot/iosdevspot/tree/master/tableView1](https://github.com/iOSDevSpot/iosdevspot/tree/master/tableView1)
+> [https://github.com/iOSDevSpot/iosdevspot-samples/tree/master/tableView1](https://github.com/iOSDevSpot/iosdevspot-samples/tree/master/tableView1)
 
 ---
 
 #### Referências
-
 
 > [UITableView Class Reference](http://developer.apple.com/library/ios/#documentation/uikit/reference/UITableView_Class/Reference/Reference.html)
 

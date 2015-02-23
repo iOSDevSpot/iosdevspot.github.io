@@ -13,7 +13,7 @@ No último cast vimos como trabalhar com arrays em Objective-C. Nesse cast vamos
 
 #### Código Fonte
 
-> [https://github.com/iOSDevSpot/iosdevspot/tree/master/Dictionaries](https://github.com/iOSDevSpot/iosdevspot/tree/master/Dictionaries)
+> [https://github.com/iOSDevSpot/iosdevspot-samples/tree/master/Dictionaries](https://github.com/iOSDevSpot/iosdevspot-samples/tree/master/Dictionaries)
 
 ---
 

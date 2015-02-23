@@ -14,7 +14,7 @@ Uma array é um objeto que contém coleções de outros objetos. Array em Object
 
 #### Código Fonte
 
-> [https://github.com/iOSDevSpot/iosdevspot/tree/master/arrays_mutablearrays](https://github.com/iOSDevSpot/iosdevspot/tree/master/arrays_mutablearrays)
+> [https://github.com/iOSDevSpot/iosdevspot-samples/tree/master/arrays_mutablearrays](https://github.com/iOSDevSpot/iosdevspot-samples/tree/master/arrays_mutablearrays)
 
 ---
 

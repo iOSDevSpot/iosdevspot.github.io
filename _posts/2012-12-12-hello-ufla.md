@@ -13,7 +13,7 @@ Fala galera, nesse cast vou voltar um pouco ao básico e criar o famoso Hello Wo
 
 #### Código Fonte
 
-> [https://github.com/iOSDevSpot/iosdevspot/tree/master/hello_ufla](https://github.com/iOSDevSpot/iosdevspot/tree/master/hello_ufla)
+> [https://github.com/iOSDevSpot/iosdevspot-samples/tree/master/hello_ufla](https://github.com/iOSDevSpot/iosdevspot-samples/tree/master/hello_ufla)
 
 ---
 
